@@ -1,6 +1,6 @@
 /* Authors:
- * Ben Ganon - 318731007
- * Sagiv Antebi - 318159282
+ * Ben Ganon 
+ * Sagiv Antebi 
  */
 
 #include "SimpleAnomalyDetector.h"
